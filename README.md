@@ -1,11 +1,12 @@
-### Hi there 👋
+
+![cloud role LinkedIn Banner](https://github.com/sipsdaoracle/sipsdaoracle/assets/59796187/48ad6fe2-427a-4cd3-b3e7-c08a796790c2)
 
 <!--
 **sipsdaoracle/sipsdaoracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Monitoring Infrastructure, Workloads, and MySQL Performance
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
