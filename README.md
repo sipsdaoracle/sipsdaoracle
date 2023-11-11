@@ -12,7 +12,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
+[![Website](https://img.shields.io/website?label=&style=for-the-badge&url=https%3A%2F%2cprtm.dev)][website]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
@@ -49,7 +49,7 @@
 <details>
   <summary> :zap: Expand me</summary>
 
-![Siphokazi's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
+![Siphokazi's github stats](https://github-readme-stats.vercel.app/api?username=sipsdaoracle&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "sipsdaoracle github stats")
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C691%20hrs%2033%20mins-blue)
@@ -125,7 +125,7 @@ Dockerfile               4 repos             █░░░░░░░░░░�
 </details>
 
 [website]: here
-[blog]: https://adityacprtm.dev/blog](https://dev.to/sipsdaoracle)
+[blog]: https://dev.to/sipsdaoracle)
 [twitter]:  https://twitter.com/dolo_sips
 [linkedin]: https://www.linkedin.com/in/siphokazidolo/
 [github]: https://github.com/sipsdaoracle
