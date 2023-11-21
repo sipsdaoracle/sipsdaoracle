@@ -5,7 +5,7 @@
 # Hi there, I'm Sips! 👋
 
 - 🌱 I’m currently doing **DevOps** and **SRE**
-- 👨‍💻 All of my projects are available at **here** or **(https://github.com/sipsdaoracle?tab=repositories)[Projects]**
+- 👨‍💻 All of my projects are available at **here** or **https://github.com/sipsdaoracle?tab=repositories**
 - 📝 I regularly write articles on **[my blog][blog]**
 - 📫 How to reach me email:siphokazidolo@gmail.com
 - ⚡ Fun fact **I love making music on DAW's and songwriting** 💘
