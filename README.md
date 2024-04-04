@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning more about **Kubernetes** and **AWS DevOps** technologies
 - 👨‍💻 All of my projects are available at **here** or **https://github.com/sipsdaoracle?tab=repositories**
-- 📝 I regularly write articles on **[My Articles][Articles]**
+- 📝 I regularly write articles on **[Articles]**
 - 📫 How to reach me email:siphokazidolo@gmail.com
 
 ## 😎 Connect with me
